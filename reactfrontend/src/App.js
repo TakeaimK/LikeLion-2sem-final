@@ -4,9 +4,9 @@ import api from "./api";
 import PostView from "./components/PostView";
 
 import Container from "@material-ui/core/Container";
-import Paper from "@material-ui/Paper";
-import TextField from "@material-ui/TextField";
-import Button from 'material-ui/Button';
+import Paper from "@material-ui/core/Paper";
+import TextField from "@material-ui/core/TextField";
+import Button from '@material-ui/core/Button';
 
 class App extends React.Component {
   constructor(props) {
